@@ -13,6 +13,19 @@ Bitcoin
 Litecoin
 ```
 ./genesis -a scrypt -z "NY Times 05/Oct/2011 Steve Jobs, Apple’s Visionary, Dies at 56" -p "040184710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9" -t 1317972665 -n 2084524493
+
+04ffff001d0104404e592054696d65732030352f4f63742f32303131205374657665204a6f62732c204170706c65e280997320566973696f6e6172792c2044696573206174203536
+algorithm: scrypt
+merkle hash: 97ddfbbae6be97fd6cdf3e7ca13232a3afff2353e29badfab7f73011edd4ced9
+pszTimestamp: NY Times 05/Oct/2011 Steve Jobs, Apple’s Visionary, Dies at 56
+pubkey: 040184710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9
+time: 1317972665
+bits: 0x1e0ffff0
+Searching for genesis hash with 8 workers..
+8.79 kh/s, elapsed: 26s, estimate: 1m59s                    
+genesis hash found!
+nonce: 246683
+genesis hash: b723793cef58bba25e46c2aecf61da1f7f14df80a4dcafc71c21a20592f6820d
 ```
 
 ## Syntax
