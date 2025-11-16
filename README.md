@@ -2,7 +2,7 @@
 
 Port of https://github.com/lhartikk/GenesisH0 to golang with parallelism and time estimates.
 
-Same syntax
+Same syntax, only sha and scrypt are supported. No x11/x13/x15.
 
 ## Examples
 
