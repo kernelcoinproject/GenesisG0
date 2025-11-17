@@ -71,3 +71,9 @@ Usage of ./genesis:
     	short flag for timestamp
 
 ```
+
+## Speed
+
+| Device  | SHA-256 Hashrate | Scrypt Hashrate |
+|---------|-------------------|------------------|
+| M2 Air | 15.7 MH/s        | 18.91 kH/s       |
